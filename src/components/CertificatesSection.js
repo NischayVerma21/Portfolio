@@ -5,14 +5,14 @@ const certificates = [
   {
     title: "Java Programming Certification",
     description: "Comprehensive Java programming course covering object-oriented programming, data structures, and enterprise application development.",
-    pdf: "/Files/JAVA_Certificate.pdf",
+    pdf: "/files/JAVA_Certificate.pdf",
     issuer: "Infosys Springboard",
     date: "2024"
   },
   {
     title: "Machine Learning Basics", 
     description: "Completed introductory machine learning course covering fundamental algorithms including linear regression, logistic regression, K-Nearest Neighbors (KNN), and decision trees. Learned basic implementation using Python libraries like NumPy, pandas, and scikit-learn for simple data analysis and model building.",
-    pdf: "/Files/ML_Certificate.pdf",
+    pdf: "/files/ML_Certificate.pdf",
     issuer: "Intershala",
     date: "2025"
   },
